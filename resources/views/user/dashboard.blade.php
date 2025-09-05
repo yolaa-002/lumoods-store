@@ -16,7 +16,7 @@
                               <div class="started_text"><a href="#">Order Now</a></div>
                            </div>
                            <div class="col-sm-6">
-                              <div class="banner_img"><img src="images/banner-img.png"></div>
+                              <div class="banner_img"><img src="images/farayBA.png"></div>
                            </div>
                         </div>
                      </div>

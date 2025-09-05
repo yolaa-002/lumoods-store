@@ -8,22 +8,22 @@
                <div class="collapse navbar-collapse" id="navbarSupportedContent">
                   <ul class="navbar-nav ml-auto">
                      <li class="nav-item active">
-                        <a class="nav-link" href="index.html">Home</a>
+                        <a class="nav-link" href="index.html">Dashboard</a>
                      </li>
                      <li class="nav-item">
-                        <a class="nav-link" href="about.html">About</a>
+                        <a class="nav-link" href="about.html">Lumoods</a>
                      </li>
                      <li class="nav-item">
-                        <a class="nav-link" href="icecream.html">Icecream</a>
+                        <a class="nav-link" href="icecream.html">Jajan</a>
                      </li>
-                     <li class="nav-item">
-                        <a class="nav-link" href="services.html">Services</a>
-                     </li>
-                     <li class="nav-item">
+                     {{-- <li class="nav-item">
+                        <a class="nav-link" href="services.html"></a>
+                     </li> --}}
+                     {{-- <li class="nav-item">
                         <a class="nav-link" href="blog.html">Blog</a>
-                     </li>
+                     </li> --}}
                      <li class="nav-item">
-                        <a class="nav-link" href="contact.html">Contact Us</a>
+                        <a class="nav-link" href="contact.html">Call me</a>
                      </li>
                   </ul>
                   <form class="form-inline my-2 my-lg-0">
