@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
     <!-- basic -->
     <meta charset="utf-8">
@@ -29,8 +28,8 @@
     <!-- Tweaks for older IEs-->
     <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css">
 </head>
-
 <body>
+    <!-- header section start -->
     @include('header');
     <!-- banner section start -->
     <div class="banner_section layout_padding">
@@ -189,5 +188,4 @@
     <script src="{{ asset("public/js/custom.js") }}"></script>
     <!-- javascript -->
 </body>
-
 </html>
