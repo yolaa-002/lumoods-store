@@ -28,10 +28,9 @@
                      <li>
                         <a class="nav-link active" href="galeri">Galeri</a>
                      </li>
-                     
-                     {{-- <li class="nav-item">
+                     <li class="nav-item">
                         <a class="nav-link" href="admin">admin</a>
-                     </li> --}}
+                     </li>
                   </ul>
 
 
