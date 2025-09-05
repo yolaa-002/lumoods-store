@@ -51,7 +51,7 @@
                                 <div class="started_text"><a href="#">coming soon</a></div>
                             </div>
                             <div class="col-sm-6">
-                                <div class="banner_img"><img src="images/gambar1.png"></div>
+                                <div class="banner_img"><img src="images/icon.jpg"></div>
                             </div>
                         </div>
                     </div>
