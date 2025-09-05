@@ -11,9 +11,9 @@
                      <div class="carousel-item active">
                         <div class="row">
                            <div class="col-sm-6">
-                              <h1 class="banner_taital">Ice Cream</h1>
-                              <p class="banner_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem</p>
-                              <div class="started_text"><a href="#">Order Now</a></div>
+                              <h1 class="banner_taital">Mau yg cepet naikin moods</h1>
+                              <p class="banner_text">Ya Lumoods, minuman jelly tinggi serat dan kalsium.Bikin moods kamu jadi bagus!</p>
+                              <div class="started_text"><a href="#">Beli sekarang</a></div>
                            </div>
                            <div class="col-sm-6">
                               <div class="banner_img"><img src="images/faray.png"></div>
@@ -23,36 +23,25 @@
                      <div class="carousel-item">
                         <div class="row">
                            <div class="col-sm-6">
-                              <h1 class="banner_taital">Ice Cream</h1>
-                              <p class="banner_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem</p>
-                              <div class="started_text"><a href="#">Order Now</a></div>
+                              <h1 class="banner_taital">Capek? Haus?</h1>
+                              <p class="banner_text">Guys, jangan ngaku anak hits kalo belum nyobain Es Lumoods – Es Jelly Susu Sensasi segar + jelly kenyal bikin lidah auto joget. Buruan cobain, jangan sampai kehabisan!</p>
+                              <div class="started_text"><a href="#">Beli sekarang</a></div>
                            </div>
                            <div class="col-sm-6">
-                              <div class="banner_img"><img src="images/windi.png"></div>
-                           </div>
-                        </div>
-                     </div>
-                     <div class="carousel-item">
-                        <div class="row">
-                           <div class="col-sm-6">
-                              <h1 class="banner_taital">Ice Cream</h1>
-                              <p class="banner_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem</p>
-                              <div class="started_text"><a href="#">Order Now</a></div>
-                           </div>
-                           <div class="col-sm-6">
-                              <div class="banner_img"><img src="images/banner-img.png"></div>
+                              <div class="banner_img"><img src="images/windiBA.png"></div>
                            </div>
                         </div>
                      </div>
                      <div class="carousel-item">
                         <div class="row">
                            <div class="col-sm-6">
-                              <h1 class="banner_taital">Ice Cream</h1>
-                              <p class="banner_text">It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem</p>
-                              <div class="started_text"><a href="#">Order Now</a></div>
+                              <h1 class="banner_taital">Lumoods bikin moods</h1>
+                              <p class="banner_text">Rasain kenikmatan susu creamy berpadu dengan jelly kenyal yang segar… itulah Es Lumoods 💙.
+ <!-- #region -->                                     Bukan cuma minuman, tapi penambah mood di setiap tegukan!</p>
+                              <div class="started_text"><a href="#">Beli sekarang</a></div>
                            </div>
                            <div class="col-sm-6">
-                              <div class="banner_img"><img src="images/banner-img.png"></div>
+                              <div class="banner_img"><img src="images/hafizh.png"></div>
                            </div>
                         </div>
                      </div>
