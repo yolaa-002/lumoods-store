@@ -28,7 +28,7 @@
                               <div class="started_text"><a href="#">Order Now</a></div>
                            </div>
                            <div class="col-sm-6">
-                              <div class="banner_img"><img src="images/windah.png"></div>
+                              <div class="banner_img"><img src="images/windi.png"></div>
                            </div>
                         </div>
                      </div>
