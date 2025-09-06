@@ -7,8 +7,12 @@ Route::get('/', function () {
     return view('user.layout');
 });
 
-Route::get('/menu', function () {
-    return view('user/menu');
+Route::get('/jajan', function () {
+    return view('user/jajan');
+});
+
+Route::get('/lumoods', function () {
+    return view('user/tentang');
 });
 
 
