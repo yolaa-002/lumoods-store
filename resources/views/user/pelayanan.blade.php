@@ -12,24 +12,19 @@
                     <div class="services_box">
                         <h5 class="tasty_text"><span class="icon_img"><img src=""></span>COD Cash On Delivery
                         </h5>
-                        <p class="lorem_text">Bayar setelah barang sampai - Aman dan terpercaya!
-                            📱 Order via WhatsApp/Telepon
-                            🚛 Langsung antar ke alamat kamu
-                            💰 Bayar cash langsung ke kurir </p>
+                        <p class="lorem_text">Bayar setelah barang sampai - Aman dan terpercaya!</p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="services_box">
-                        <h5 class="tasty_text"><span class="icon_img"><img src=""></span>Cookies Ice Cream</h5>
-                        <p class="lorem_text">commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                            velit esse cillum dolore eu fat </p>
+                        <h5 class="tasty_text"><span class="icon_img"><img src=""></span>Datang ke outlet terdekat</h5>
+                        <p class="lorem_text">Datang ke outlet kesayangan kamu </p>
                     </div>
                 </div>
                 <div class="col-md-4">
                     <div class="services_box">
-                        <h5 class="tasty_text"><span class="icon_img"><img src=""></span>Cookies Ice Cream</h5>
-                        <p class="lorem_text">commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-                            velit esse cillum dolore eu fat </p>
+                        <h5 class="tasty_text"><span class="icon_img"><img src=""></span>Antar sampai rumah</h5>
+                        <p class="lorem_text">Ga perlu keluar rumah buat beli, tinggal call kami beres!</p>
                     </div>
                 </div>
             </div>
