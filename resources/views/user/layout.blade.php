@@ -47,7 +47,7 @@
     @include('user.pelayanan')
     <!-- services section end -->
     <!-- testimonial section start -->
-    @include('user.testimoni')
+    {{-- @include('user.testimoni') --}}
     <!-- testimonial section end -->
     <!-- contact section start -->
     @include('user.kontak')
