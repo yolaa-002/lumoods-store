@@ -10,8 +10,8 @@
                      <li class="nav-item active">
                         <a class="nav-link" href="/">Dashboard</a>
                      </li>
-                     <li class="nav-item">
-                        <a class="nav-link" href="lumoods">Lumoods</a>
+                     <li class="nav-item btn-primary">
+                        <a class="nav-link" href="">Lumoods</a>
                      </li>
                      <li class="nav-item">
                         <a class="nav-link" href="jajan">Jajan</a>

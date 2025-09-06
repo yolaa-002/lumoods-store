@@ -9,7 +9,7 @@
                   <p class="about_text">ES LUMOODS adalah minuman jelly revolusioner yang tidak hanya menyegarkan dahaga, tapi juga mengangkat mood Anda! Dengan tekstur jelly yang unik dan beragam rasa yang menggugah selera, setiap tegukan ES LUMOODS adalah pengalaman yang membahagiakan.
                      hadir untuk mengubah mood kamu dari yang biasa-biasa saja menjadi luar biasa! Setiap rasa dirancang khusus untuk memberikan sensasi yang berbeda dan meningkatkan semangat hari-hari kamu.
                   </p>
-                  <div class="read_bt_1"><a href="#">Selengkapnya</a></div>
+                  <div class="read_bt_1"><a href="lumoods">Selengkapnya</a></div>
                </div>
             </div>
          </div>
