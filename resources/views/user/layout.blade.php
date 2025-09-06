@@ -51,7 +51,7 @@
     <!-- testimonial section end -->
     <!-- contact section start -->
     {{-- @include('user.kontak') --}}
-    @include('user.team')
+    {{-- @include('user.team') --}}
     <!-- contact section end -->
     <!-- copyright section start -->
     @include('user.footer')
