@@ -12,7 +12,7 @@ Route::get('/jajan', function () {
 });
 
 Route::get('/lumoods', function () {
-    return view('user/tentang');
+    return view('user/lumoods');
 });
 
 
