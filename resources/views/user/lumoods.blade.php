@@ -1,5 +1,5 @@
 @extends('user.layout2')
-@yield('konten')
+@section('konten')
 <!-- about sectuion start -->
 <div class="about_section layout_padding">
          <div class="container">
