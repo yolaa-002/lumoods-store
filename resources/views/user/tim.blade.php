@@ -1,64 +1,88 @@
 @extends('user.layout2')
-
-      <div class="container py-5">
-         <div class="row mb-4">
+@section('konten')
+    {{-- <div class="container py-5">
+        <div class="row mb-4">
             <div class="col text-center">
-               <h1 class="h2 font-weight-bold">Our Team</h1>
-               <p class="text-muted">Kenalan sama tim kece Lumoods!</p>
+                <h1 class="h2 font-weight-bold">Our Team</h1>
+                <p class="text-muted">Kenalan sama tim kece Lumoods!</p>
             </div>
-         </div>
+        </div>
 
-         <div class="row justify-content-center">
+        <div class="row justify-content-center">
             <!-- Team Member 1 -->
             <div class="col-md-3 col-sm-6 mb-4">
-               <div class="card shadow-sm text-center" style="width: 250px; height: 350px; margin: auto;">
-                  <img src="images/team2.jpg" class="card-img-top" alt="Team Member 1" style="height:200px; object-fit:cover;">
-                  <div class="card-body">
-                     <h5 class="card-title mb-0">Nama Anggota</h5>
-                     <small class="text-muted">CEO</small>
-                  </div>
-               </div>
+                <div class="card shadow-sm text-center" style="width: 250px; height: 350px; margin: auto;">
+                    <img src="images/team2.jpg" class="card-img-top" alt="Team Member 1"
+                        style="height:200px; object-fit:cover;">
+                    <div class="card-body">
+                        <h5 class="card-title mb-0">Nama Anggota</h5>
+                        <small class="text-muted">CEO</small>
+                    </div>
+                </div>
             </div>
 
             <!-- Team Member 2 -->
             <div class="col-md-3 col-sm-6 mb-4">
-               <div class="card shadow-sm text-center" style="width: 250px; height: 350px; margin: auto;">
-                  <img src="images/team2.jpg" class="card-img-top" alt="Team Member 2" style="height:200px; object-fit:cover;">
-                  <div class="card-body">
-                     <h5 class="card-title mb-0">Nama Anggota</h5>
-                     <small class="text-muted">Marketing</small>
-                  </div>
-               </div>
+                <div class="card shadow-sm text-center" style="width: 250px; height: 350px; margin: auto;">
+                    <img src="images/team2.jpg" class="card-img-top" alt="Team Member 2"
+                        style="height:200px; object-fit:cover;">
+                    <div class="card-body">
+                        <h5 class="card-title mb-0">Nama Anggota</h5>
+                        <small class="text-muted">Marketing</small>
+                    </div>
+                </div>
             </div>
 
             <!-- Team Member 3 -->
             <div class="col-md-3 col-sm-6 mb-4">
-               <div class="card shadow-sm text-center" style="width: 250px; height: 350px; margin: auto;">
-                  <img src="images/team3.jpg" class="card-img-top" alt="Team Member 3" style="height:200px; object-fit:cover;">
-                  <div class="card-body">
-                     <h5 class="card-title mb-0">Nama Anggota</h5>
-                     <small class="text-muted">Designer</small>
-                  </div>
-               </div>
+                <div class="card shadow-sm text-center" style="width: 250px; height: 350px; margin: auto;">
+                    <img src="images/team3.jpg" class="card-img-top" alt="Team Member 3"
+                        style="height:200px; object-fit:cover;">
+                    <div class="card-body">
+                        <h5 class="card-title mb-0">Nama Anggota</h5>
+                        <small class="text-muted">Designer</small>
+                    </div>
+                </div>
             </div>
 
             <!-- Team Member 4 -->
             <div class="col-md-3 col-sm-6 mb-4">
-               <div class="card shadow-sm text-center" style="width: 250px; height: 350px; margin: auto;">
-                  <img src="images/team4.jpg" class="card-img-top" alt="Team Member 4" style="height:200px; object-fit:cover;">
-                  <div class="card-body">
-                     <h5 class="card-title mb-0">Nama Anggota</h5>
-                     <small class="text-muted">Developer</small>
-                  </div>
-               </div>
+                <div class="card shadow-sm text-center" style="width: 250px; height: 350px; margin: auto;">
+                    <img src="images/team4.jpg" class="card-img-top" alt="Team Member 4"
+                        style="height:200px; object-fit:cover;">
+                    <div class="card-body">
+                        <h5 class="card-title mb-0">Nama Anggota</h5>
+                        <small class="text-muted">Developer</small>
+                    </div>
+                </div>
             </div>
-         </div>
-      </div>
+        </div>
+    </div> --}}
 
-      
-      
-      <!-- Bootstrap JS -->
-      <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-      <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.6.2/js/bootstrap.bundle.min.js"></script>
-   </body>
-</html>
+    <!-- Team Start -->
+    <div class="container-xxl py-5">
+        <div class="container">
+            <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
+                <p class="section-title bg-dark text-center text-white px-3">Top 3</p>
+                <h1 class="mb-5">team lumoods</h1>
+            </div>
+            <div class="row g-4">
+                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
+                    <div class="team-item rounded p-4">
+                        <img class="img-fluid rounded mb-4" src="" alt="">
+                        <h5></h5>
+                        <p class="text-dark"></p>
+                        <div class="d-flex justify-content-center">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+    <!-- Team End -->
+
+    <!-- Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.6.2/js/bootstrap.bundle.min.js"></script>
+@endsection
