@@ -11,7 +11,7 @@
                         <a class="nav-link" href="/">Dashboard</a>
                      </li>
                      <li class="nav-item">
-                        <a class="nav-link" href="">Lumoods</a>
+                        <a class="nav-link" href="lumoods">Lumoods</a>
                      </li>
                      <li class="nav-item">
                         <a class="nav-link" href="jajan">Jajan</a>

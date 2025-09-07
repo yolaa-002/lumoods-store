@@ -1,7 +1,7 @@
 <!-- copyright section start -->
       <div class="copyright_section">
          <div class="container">
-            <p class="copyright_text">2020 All Rights Reserved. Design by <a href="https://html.design">Free Html Templates</a> Distribution by <a href="https://themewagon.com">ThemeWagon</a></p>
+            <p class="copyright_text">2025 All Rights Reserved. Design by <a href="https://html.design"></a> Dibuat oleh <a href="https://lumoods.store">Lumoods</a></p>
          </div>
       </div>
       <!-- copyright section end -->

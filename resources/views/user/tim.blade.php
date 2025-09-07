@@ -12,7 +12,7 @@
             <!-- Team Member 1 -->
             <div class="col-md-3 col-sm-6 mb-4">
                 <div class="card shadow-sm text-center" style="width: 250px; height: 350px; margin: auto;">
-                    <img src="images/team2.jpg" class="card-img-top" alt="Team Member 1"
+                    <img src="images/" class="card-img-top" alt="Team Member 1"
                         style="height:200px; object-fit:cover;">
                     <div class="card-body">
                         <h5 class="card-title mb-0">Nama Anggota</h5>
@@ -24,7 +24,7 @@
             <!-- Team Member 2 -->
             <div class="col-md-3 col-sm-6 mb-4">
                 <div class="card shadow-sm text-center" style="width: 250px; height: 350px; margin: auto;">
-                    <img src="images/team2.jpg" class="card-img-top" alt="Team Member 2"
+                    <img src="images/" class="card-img-top" alt="Team Member 2"
                         style="height:200px; object-fit:cover;">
                     <div class="card-body">
                         <h5 class="card-title mb-0">Nama Anggota</h5>
