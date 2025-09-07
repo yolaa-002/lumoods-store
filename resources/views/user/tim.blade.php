@@ -1,6 +1,6 @@
 @extends('user.layout2')
 @section('konten')
-    {{-- <div class="container py-5">
+    <div class="container py-5">
         <div class="row mb-4">
             <div class="col text-center">
                 <h1 class="h2 font-weight-bold">Our Team</h1>
@@ -57,30 +57,9 @@
                 </div>
             </div>
         </div>
-    </div> --}}
+    </div>
 
-    <!-- Team Start -->
-    <div class="container-xxl py-5">
-        <div class="container">
-            <div class="text-center mx-auto wow fadeInUp" data-wow-delay="0.1s" style="max-width: 500px;">
-                <p class="section-title bg-dark text-center text-white px-3">Top 3</p>
-                <h1 class="mb-5">team lumoods</h1>
-            </div>
-            <div class="row g-4">
-                <div class="col-lg-4 col-md-6 wow fadeInUp" data-wow-delay="0.1s">
-                    <div class="team-item rounded p-4">
-                        <img class="img-fluid rounded mb-4" src="" alt="">
-                        <h5></h5>
-                        <p class="text-dark"></p>
-                        <div class="d-flex justify-content-center">
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-    </div>
-    <!-- Team End -->
+  
 
     <!-- Bootstrap JS -->
     <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
