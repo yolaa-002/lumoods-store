@@ -19,9 +19,9 @@
                      <li class="nav-item">
                         <a class="nav-link" href="galeri">Galeri</a>
                      </li>
-                     {{-- <li class="nav-item">
-                        <a class="nav-link" href="blog.html">Blog</a>
-                     </li> --}}
+                     <li class="nav-item">
+                        <a class="nav-link" href="blog.html">Tim</a>
+                     </li>
                      <li class="nav-item">
                         <a class="nav-link" href="callme">Call me</a>
                      </li>
