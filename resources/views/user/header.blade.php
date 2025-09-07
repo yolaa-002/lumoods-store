@@ -20,7 +20,7 @@
                         <a class="nav-link" href="galeri">Galeri</a>
                      </li>
                      <li class="nav-item">
-                        <a class="nav-link" href="blog.html">Tim</a>
+                        <a class="nav-link" href="tim">Tim</a>
                      </li>
                      <li class="nav-item">
                         <a class="nav-link" href="callme">Call me</a>
