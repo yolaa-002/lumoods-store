@@ -41,7 +41,7 @@
                         style="height:200px; object-fit:cover;">
                     <div class="card-body">
                         <h5 class="card-title mb-0">Nama Anggota</h5>
-                        <small class="text-muted">Designer</small>
+                        <small class="text-muted">Desi</small>
                     </div>
                 </div>
             </div>
