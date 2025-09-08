@@ -4,7 +4,7 @@
         <div class="row mb-4">
             <div class="col text-center">
                 <h1 class="h2 font-weight-bold">Our Team</h1>
-                <p class="text-muted">Kenalan sama tim kece Lumoods!</p>
+                <p class="text-muted">Kenalan sama tim kece Lumoodss</p>
             </div>
         </div>
 
