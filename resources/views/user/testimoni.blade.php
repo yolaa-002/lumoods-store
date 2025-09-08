@@ -2,7 +2,7 @@
          <div class="container">
             <div class="row">
                <div class="col-md-12">
-                  <h1 class="testimonial_taital">Testimonial</h1>
+                  <h1 class="testimonial_taital">Testimonialllll</h1>
                </div>
             </div>
             <div class="testimonial_section_2">
