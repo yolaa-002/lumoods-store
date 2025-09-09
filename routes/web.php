@@ -29,7 +29,7 @@ Route::get('/admin', function () {
 });
 
 Route::get('/admin', function () {
-    return view('admin/dashboard');
+    return view('admin/beranda');
 })->middleware(['auth', 'verified'])->name('dashboard');
 
 Route::middleware('auth')->group(function () {
