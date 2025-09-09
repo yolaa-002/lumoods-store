@@ -2,7 +2,11 @@
          <div class="container">
             <div class="row">
                <div class="col-md-12">
+<<<<<<< HEAD
                   <h1 class="testimonial_taital">Testimonialllll</h1>
+=======
+                  <h1 class="testimonial_taital">testimoni ini fiturnya un relese</h1>
+>>>>>>> d461ecd (menambahkan fitur admin)
                </div>
             </div>
             <div class="testimonial_section_2">

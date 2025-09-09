@@ -24,6 +24,10 @@ Route::get('/tim', function () {
     return view('user/tim');
 });
 
+Route::get('/beranda', function () {
+    return view('admin/beranda');
+});
+
 Route::get('/admin', function () {
     return view('admin/dashboard');
 })->middleware(['auth', 'verified'])->name('dashboard');
