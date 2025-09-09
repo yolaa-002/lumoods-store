@@ -24,7 +24,7 @@ Route::get('/tim', function () {
     return view('user/tim');
 });
 
-Route::get('/beranda', function () {
+Route::get('/admin', function () {
     return view('admin/beranda');
 });
 
