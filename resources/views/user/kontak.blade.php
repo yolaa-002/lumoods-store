@@ -1,3 +1,6 @@
+@extends('user.layout2')
+@section('konten')
+
 <div class="contact_section layout_padding">
          <div class="container">
             <div class="row">
@@ -55,3 +58,5 @@
             </div>
          </div>
       </div>
+
+      @section
