@@ -3,7 +3,7 @@
             <div class="row">
                <div class="col-md-4">
                   <div class="contact_main">
-                     <h1 class="contact_taital">Contact Us</h1>
+                     <h1 class="contact_taital">Kontak Kami</h1>
                      <form action="/action_page.php">
                         <div class="form-group">
                            <input type="text" class="email-bt" placeholder="Name" name="Name">
@@ -18,35 +18,31 @@
                            <textarea class="massage-bt" placeholder="Massage" rows="5" id="comment" name="Massage"></textarea>
                         </div>
                      </form>
-                     <div class="main_bt"><a href="#">SEND</a></div>
+                     <div class="main_bt"><a href="#">KIRIM</a></div>
                   </div>
                </div>
                <div class="col-md-8">
                   <div class="location_text">
                      <ul>
                         <li>
+                           
                            <a href="#">
-                           <span class="padding_left_10 active"><i class="fa fa-map-marker" aria-hidden="true"></i></span>Making this the first true</a>
-                        </li>
-                        <li>
-                           <a href="#">
-                           <span class="padding_left_10"><i class="fa fa-phone" aria-hidden="true"></i></span>Call : +01 1234567890
+                           <span class="padding_left_10"><i class="fa fa-phone" aria-hidden="true"></i></span>WhatsApp : +62 882-00551-99903
                            </a>
                         </li>
                         <li>
                            <a href="#">
-                           <span class="padding_left_10"><i class="fa fa-envelope" aria-hidden="true"></i></span>Email : demo@gmail.com
-                           </a>
+                           <span class="padding_left_10"><i class="fa fa-envelope" aria-hidden="true"></i></span> Email : lumoodss@gmail.com
                         </li>
                      </ul>
                   </div>
-                  <div class="mail_main">
+                  {{-- <div class="mail_main">
                      <h3 class="newsletter_text">Newsletter</h3>
                      <div class="form-group">
                         <textarea class="update_mail" placeholder="Enter Your Email" rows="5" id="comment" name="Enter Your Email"></textarea>
                         <div class="subscribe_bt"><a href="#">Subscribe</a></div>
                      </div>
-                  </div>
+                  </div> --}}
                   <div class="footer_social_icon">
                      <ul>
                         <li><a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a></li>

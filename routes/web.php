@@ -15,6 +15,10 @@ Route::get('/lumoods', function () {
     return view('user/lumoods');
 });
 
+Route::get('/kontak', function () {
+    return view('user/kontak');
+});
+
 
 Route::get('/galeri', function () {
     return view('user/galeri');
